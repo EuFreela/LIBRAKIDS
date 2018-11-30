@@ -63,5 +63,21 @@ Fernando Ribeiro
 <img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/images-bottom-12-3.png" width="500" heigth="500">
 
 
+<hr>
+
+### PROTÓTIPO
+
+O protótipo é uma ideia de como opoderia ser o sistema de acordo com que descreveram no trabalho de concluso de curso.
+
+### INSTALAÇO
+
+1. Execute o arquivo no terminal: sudo sh install.sh
+
+
+
+
+
+
+
 
 
