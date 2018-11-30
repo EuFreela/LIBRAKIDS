@@ -8,10 +8,12 @@ Oferecendo exercícios em linguagem de sinais (LIBRAS) e questionários de fixa�
 
 ### PARTICIPANTES
 
+<pre>
 SDK Android (programação nativa) e Layout do app: Ramon Vicente - Santa Catarina
 Modificações no App: Viviana Fernandes - São Paulo
 Backend e frontend: Lameck S.F - Minas Gerais
 
-Autores (Minas Gerais):
+<b>Autores (Minas Gerais):</b>
 Alexandre Garcia
 Fernando Ribeiro
+</pre>
