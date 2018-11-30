@@ -9,21 +9,31 @@ Oferecendo exercícios em linguagem de sinais (LIBRAS) e questionários de fixa�
 ### PARTICIPANTES
 
 <pre>
-SDK Android (programação nativa) e Layout do app: Ramon Vicente - Santa Catarina
-Modificações no App: Viviana Fernandes - São Paulo
-Backend e frontend: Lameck S.F - Minas Gerais
+SDK Android (programação nativa) e Layout do app: Ramon Vicente FREELANCER) - Santa Catarina
+Modificações no App: Viviana Fernandes (SECRETARIA DA EDUCAÇÃO) - São Paulo
+Backend e frontend: Lameck S.F (FREELANCER) - Minas Gerais
 
 <b>Autores (Minas Gerais):</b>
 Alexandre Garcia
 Fernando Ribeiro
 </pre>
 
-### Vistas
+### FRONTEND
 
 <img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-02-59.png" width="500" heigth="500">
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-42-22.png" width="500" heigth="500">
 
 <img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-42-26.png" width="500" heigth="500">
 
 <img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-42-34.png" width="500" heigth="500">
 
 <img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-42-44.png" width="500" heigth="500">
+
+### BACKEND
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-03-45.png" width="500" heigth="500">
+
+
+
+
