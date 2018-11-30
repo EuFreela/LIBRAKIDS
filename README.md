@@ -17,3 +17,13 @@ Backend e frontend: Lameck S.F - Minas Gerais
 Alexandre Garcia
 Fernando Ribeiro
 </pre>
+
+### Vistas
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-02-59.png" width="500" heigth="500">
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-42-26.png" width="500" heigth="500">
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-42-34.png" width="500" heigth="500">
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-42-44.png" width="500" heigth="500">
