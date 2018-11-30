@@ -1,0 +1,327 @@
+/*************
+theme option
+**********/
+body {
+	font-family: Open Sans, Helvetica, Arial, sans-serif;
+	font-size:   14px;
+	font-weight: Normal;
+	line-height: 24px;
+	color:       #555;
+}
+
+a {
+	color: #555;
+}
+
+a:hover, a:active, a:focus {
+	color: #53cbef;
+}
+
+h1 {
+	font-size:   34px;
+	font-weight: normal;
+}
+
+h2, .page-title-wrapper .heading_primary {
+	font-size:   32px;
+	font-weight: normal;
+}
+
+h3 {
+	font-size:   28px;
+	font-weight: normal;
+}
+
+h4 {
+	font-size:   26px;
+	font-weight: normal;
+}
+
+h5, .site-main .entry-content .entry-title, .comments-title, .reply-title {
+	font-size:   22px;
+	font-weight: normal;
+}
+
+h6, .widget-area aside .widget-title {
+	font-size:   16px;
+	font-weight: normal;
+}
+
+.our-teams #slider .content-slides .desc, .sc-heading .desc, .desc-icon-box {
+	font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h5, h6 {
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+	font-weight: Normal;
+	color:       #333;
+	line-height: 1.3;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h5 a, h6 a {
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+	font-weight: Normal;
+	color:       #333;
+}
+
+.sc-showcase .sc-showcase-title h3 {
+	font-size: 44px;
+}
+
+.wrapper-footer {
+	background: #414b4f;
+	color:      #cccccc;
+}
+
+.wrapper-footer a {
+	color: #ffffff;
+}
+
+.wrapper-footer a:hover {
+	color: #53cbef;
+}
+
+.wrapper-footer .contact-info a {
+	color: #cccccc;
+}
+
+.wrapper-footer .contact-info a:hover {
+	color: #53cbef;
+}
+
+.wrapper-footer .main-top-footer {
+	font-size: 13px;
+}
+
+.wrapper-footer .main-top-footer .widget-title {
+	color:     #ffffff;
+	font-size: 18px;
+}
+
+.list-arrow li {
+	margin-bottom: 0;
+}
+
+.list-arrow li a:after {
+	color: #53cbef;
+}
+
+.page-title-wrapper .breadcrumbs-wrapper ul li a:hover {
+	color: #53cbef;
+}
+
+.sticky_custom_menu.affix {
+	background: white;
+}
+
+.sticky_custom_menu.affix .navbar-toggle .icon-bar {
+	background-color: #333333;
+}
+
+.sticky_custom_menu.affix .navbar-nav > li > a {
+	color: #333333;
+}
+
+.sticky_custom_menu.affix .navbar-nav > li > .nav-active, .sticky_custom_menu.affix .navbar-nav > li > a:hover {
+	color: #53cbef;
+}
+
+.sticky_custom_menu.affix .menu-right li a, .sticky_custom_menu.affix .menu-right li span, .sticky_custom_menu.affix .menu-right li div {
+	color: #333333;
+}
+
+.sticky_custom_menu.affix .menu-right li a:hover {
+	color: #53cbef;
+}
+
+.navigation ul li .page-numbers {
+	border: 1px solid #ddd;
+	color:  #53cbef;
+}
+
+.navigation ul li .page-numbers:hover, .navigation ul li .page-numbers.current {
+	border-color: #53cbef;
+}
+
+.widget-icon-box .boxes-icon {
+	border: 2px solid #53cbef;
+	color:  #53cbef;
+}
+
+.sc-showcase-style_2 .owl-controls .owl-pagination .owl-page.active {
+	background: #53cbef;
+}
+
+.counter-number {
+	color: #53cbef;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+	background:   #53cbef;
+	border-color: #53cbef;
+}
+
+.wpcf7-form .wpcf7-submit {
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+}
+
+.wpcf7-form .wpcf7-submit:hover {
+	border-color: #53cbef;
+	color:        #53cbef;
+}
+
+#respond input#submit {
+	background: #53cbef;
+	box-shadow: 0 2px 0 0 rgba(83, 203, 239, 0.6);
+}
+
+.comments-area .comment-list-inner li .comment-extra-info a:hover, .comments-area .comment-list-inner li .comment-extra-info .comment-reply-link:hover {
+	color: #53cbef;
+}
+
+.site-header {
+	background: 0, 0, 0;
+}
+
+.custom-content .btn-default:hover {
+	border-color: #53cbef;
+	color:        #53cbef;
+}
+
+.widget-area aside .widget-title:before {
+	background: #53cbef;
+}
+
+.testimonials .owl-prev:hover, .testimonials .owl-next:hover {
+	border-color: #53cbef;
+	color:        #53cbef;
+	opacity:      1;
+}
+
+.button-popup-video:hover {
+	background: #53cbef;
+	color:      #fff;
+}
+
+.comments-area .comment-list-inner li .comment-extra-info a:hover, .comments-area .comment-list-inner li .comment-extra-info .comment-reply-link:hover {
+	color: #53cbef;
+}
+
+.our-teams #slider .content-slides .socials li a:hover {
+	color: #53cbef;
+}
+
+@media (min-width: 993px) {
+	.site-header .navbar-nav > li > ul.sub-menu {
+		background-color: #ffffff;
+	}
+
+	.site-header .navbar-nav > li > ul.sub-menu > li a {
+		color: #333333;
+	}
+
+	.site-header .navbar-nav > li > ul.sub-menu > li a:hover {
+		color: #53cbef;
+	}
+}
+
+@media (min-width: 768px) {
+	.menu-right li a, .menu-right li span, .menu-right li div {
+		color:       #ffffff;
+		font-size:   14px;
+		font-weight: 600;
+	}
+
+	.menu-right li a:hover {
+		color: #53cbef;
+	}
+
+	.navigation-menu .navbar-nav > li > a, .navigation-menu .navbar-nav > li > span {
+		color:       #ffffff;
+		font-size:   14px;
+		font-weight: 600;
+	}
+
+	.navigation-menu .navbar-nav > li > a:hover {
+		color: #53cbef;
+	}
+
+	.navigation-menu .navbar-nav > li.current-menu-item > a, .navigation-menu .navbar-nav > li.current_page_parent > a {
+		color: #53cbef;
+	}
+
+	.navigation-menu .navbar-nav > li > .nav-active {
+		color: #53cbef;
+	}
+
+	.navigation-menu .navbar-nav > li .sub-menu > li:hover > a, .navigation-menu .navbar-nav > li .sub-menu > li:hover > span, .navigation-menu .navbar-nav > li .sub-menu > li.current-menu-item > a, .navigation-menu .navbar-nav > li .sub-menu > li.current-menu-item > span {
+		color: #53cbef;
+	}
+
+	.width-logo {
+		width: 100px;
+	}
+
+	.width-navigation {
+		width: calc(100% - 105px);
+	}
+}
+
+@media (max-width: 767px) {
+	.width-logo {
+		width: 80px;
+	}
+
+	#mobile-demo {
+		background: #333333;
+	}
+
+	#mobile-demo li a, .icon-toggle {
+		color: #ffffff;
+	}
+
+	#mobile-demo li.current-menu-item > a, #mobile-demo li.current-menu-item > span {
+		color: #53cbef;
+	}
+
+	.menu-mobile-effect span {
+		background-color: #ffffff;
+	}
+
+	h1 {
+		font-size: 34px;
+	}
+
+	h2, .page-title-wrapper .heading_primary {
+		font-size: 30px;
+	}
+
+	h3 {
+		font-size: 26px;
+	}
+
+	h4 {
+		font-size: 24px;
+	}
+
+	h5, .site-main .entry-content .entry-title, .comments-title, .reply-title {
+		font-size: 19px;
+	}
+
+	h6, .widget-area aside .widget-title,
+	.our-teams #slider .content-slides .desc, .sc-heading .desc, .desc-icon-box {
+		font-size: 16px;
+	}
+
+	#mobile-demo {
+		background: #333333;
+	}
+}
+
+@media (max-width: 520px) {
+	.sc-showcase .left-feature-text .features-control-item.active .ia-icon, .sc-showcase .right-features-text .features-control-item.active .ia-icon {
+		border-color: #53cbef;
+		color:        #53cbef;
+	}
+}
