@@ -40,7 +40,15 @@ Fernando Ribeiro
 
 <img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-14-37.png" width="500" heigth="500">
 
-<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-04-20.png" width="500" heigth="500">
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-15-27.png" width="500" heigth="500">
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-15-13.png" width="500" heigth="500">
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-15-06.png" width="500" heigth="500">
+
+<img src="https://github.com/EuFreela/LIBRAKIDS/blob/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-14-57.png" width="500" heigth="500">
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-14-37.png" width="500" heigth="500">
 
 <img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-04-20.png" width="500" heigth="500">
 
