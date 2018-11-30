@@ -89,12 +89,5 @@ $ cd /var/www/html/estudelibras
 
 Os ultimos ajustes no apk foram de ultima hora para apresentação do sistema e não foi atualizado no link do forntend "baixar o aplicativo". Há várias verses neste repositrio, a pasta entitulada de FINAL seria a ultima dev item.
 
-
-
-
-
-
-
-
-
+O sistema já foi apresentado e já obteram nota.
 
