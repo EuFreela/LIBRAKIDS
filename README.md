@@ -69,9 +69,26 @@ Fernando Ribeiro
 
 O protótipo é uma ideia de como opoderia ser o sistema de acordo com que descreveram no trabalho de concluso de curso.
 
-### INSTALAÇO
+### INSTALAÇÃO
 
 1. Execute o arquivo no terminal: sudo sh <a href="https://github.com/EuFreela/LIBRAKIDS/blob/master/install.sh">install.sh</a>
+
+2. Se ocorreu tudo ok com o ambiente LAMP, acesse os endereços:
+2.1. localhost/phpmyadmin;
+2.2. Crie um banco de dados;
+2.3. Importe o sql que provavelmente ja esta com dados preenchidos. Isso implica que no estudelibras, backend nos diretrios video, img e cards.
+
+3. Terminal: copie a pasta estudelibras para dentro do apache. Nela contem o backend e o frontend da aplicação.
+$ cd /var/www/html/estudelibras
+
+4. Configure o roteador para que o servidor rode no ip: 192.168.1.102. Caso contrário, mude o i no SKD ANDROID e faça um novo build do apk. O app acessa o servidor em rede local.
+
+5. Os links da aplicação estão default para linkarem a este endereo ip fixo. Caso mude o IP é necessário alguns ajustes como: no link no frontend para baixar o apk. A ultima versão esta no diretório FINAL e não no link.
+
+### SOBRE
+
+Os ultimos ajustes no apk foram de ultima hora para apresentação do sistema e não foi atualizado no link do forntend "baixar o aplicativo". Há várias verses neste repositrio, a pasta entitulada de FINAL seria a ultima dev item.
+
 
 
 
