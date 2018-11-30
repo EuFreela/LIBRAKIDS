@@ -71,7 +71,7 @@ O protótipo é uma ideia de como opoderia ser o sistema de acordo com que descr
 
 ### INSTALAÇO
 
-1. Execute o arquivo no terminal: sudo sh install.sh
+1. Execute o arquivo no terminal: sudo sh <a href="https://github.com/EuFreela/LIBRAKIDS/blob/master/install.sh">install.sh</a>
 
 
 
