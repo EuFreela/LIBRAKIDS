@@ -1,4 +1,5 @@
 # LIBRAKIDS
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/libras.png" width="200" heigth="200">
 Protótipo de um sistema feito sob encomenda.
 
 ### SOBRE
@@ -51,5 +52,16 @@ Fernando Ribeiro
 <img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-14-37.png" width="500" heigth="500">
 
 <img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/Captura%20de%20tela%20de%202018-11-30%2019-04-20.png" width="500" heigth="500">
+
+
+### APP
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/feature-image-1-1.jpg" width="500" heigth="500">
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/feature-image-2-2.jpg" width="500" heigth="500">
+
+<img src="https://raw.githubusercontent.com/EuFreela/LIBRAKIDS/master/imgs/images-bottom-12-3.png" width="500" heigth="500">
+
+
 
 
