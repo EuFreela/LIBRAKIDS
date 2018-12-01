@@ -76,20 +76,20 @@ echo "Instalado o PHPMYADMIN"
 #fi
 #echo "Instalado o npm"
 
-#echo "INstalar o workbanch"
-#if ! apt install mysql-workbench -y
-#then
-#	echo "Não foi possível instalar o workbench"
-#	exit 1
-#fi
-#echo "Instalado o workbench"
+echo "INstalar o workbanch"
+if ! apt install mysql-workbench -y
+then
+	echo "Não foi possível instalar o workbench"
+	exit 1
+fi
+echo "Instalado o workbench"
 
-#echo "VS CODE"
-#if ! apt-get install snapd snapd-xdg-open -y
-#then
-#	echo "Não foi possivel instalar dependencias VSCODE"
-#	exit 1
-#fi
+echo "VS CODE"
+if ! apt-get install snapd snapd-xdg-open -y
+then
+	echo "Não foi possivel instalar dependencias VSCODE"
+	exit 1
+fi
 
 # VSCODE
 if ! snap install --classic vscode
